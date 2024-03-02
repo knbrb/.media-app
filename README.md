@@ -1,13 +1,14 @@
-# Media & Entertainment Interest Group
+# Food Delivery App
+Figma Link: https://www.figma.com/file/ApDJ1q8HkRoB9kDshBtBZ6/Food-Delivery-App
 
-Repository for the Media & Entertainment Interest Group
+![App Image](https://raw.githubusercontent.com/berkaltiok/food-delivery/master/banner.jpg)
 
-See also the following resources:
+## Install Project
+```
+npm install
+```
 
-* [Home Page](https://www.w3.org/2011/webtv/)
-* [Charter](https://www.w3.org/2021/06/me-ig-charter.html)
-* [Wiki](https://www.w3.org/2011/webtv/wiki/Main_Page) 
-
-## Code of Conduct
-
-The Media & Entertainment IG operates under the [W3C Code of Ethics and Professional Conduct](https://www.w3.org/Consortium/cepc/).
+## Start Project
+```
+npm run start
+```
