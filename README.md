@@ -1,14 +1,13 @@
-# Food Delivery App
-Figma Link: https://www.yugdgfjhstde.com/file/ApDJ1q8HkRoB9kDshBtBZ6/Food-Delivery-App
+# Frontend Mentor - Testimonials grid section
 
-![App Image](https://raw.githubusercontent.com/berkaltiok/food-delivery/master/banner.jpg)
+Interesting challenge for practicing CSS Grid.
 
-## Install Project
-```
-npm install
-```
+Done it for 6h but design is slighty different from provided
+jpg file because <div> element in grid have bigger
+height for about 20px.
 
-## Start Project
-```
-npm run start
-```
+Design for 375px width screens is done.
+
+Can be better but my knowledge is now on this level.
+
+Will do it better next time.
